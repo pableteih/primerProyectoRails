@@ -1,0 +1,23 @@
+.row{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    padding: 30px;
+}
+
+.img-igu{
+    width: 100%;
+    margin: auto ;
+
+}
+
+.card-title{
+    margin-top: 10px;
+
+}
+
+.meet-and{
+    width: 100%;
+}
