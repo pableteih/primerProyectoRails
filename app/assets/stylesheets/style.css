@@ -21,3 +21,85 @@
 .meet-and{
     width: 100%;
 }
+
+.zelda{
+    width: 100%;
+}
+
+.titulo-proyectos{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.btn.btn-primary1{
+
+    background-color: aliceblue;
+
+}
+.btn.btn-primary2{
+
+    background-color: black;
+    color: aliceblue;
+
+}
+.btn.btn-primary3{
+
+    background-color: darkgreen;
+    color: aliceblue;
+
+}
+
+
+.container{
+
+    margin: 60px;
+}
+.container-fluid{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    font-size: x-large;
+    background-color: rgb(26, 30, 30);
+    
+    padding: 2%;
+    
+}
+
+#d-flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-left: 200px;
+
+
+}
+
+
+.links{
+
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.gato{
+    width: 100%;
+}
+
+.yiel-el{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+
+
+
+}
+
+.navbar.bg-body-tertiary{
+    background-color: springgreen  ;
+}
+
